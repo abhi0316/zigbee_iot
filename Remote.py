@@ -3,7 +3,6 @@ import json
 import urllib
 import datetime
 import threading
-
 #REPORT_HTTPS = False
 #REPORT_DOMAIN = "whiteeovaltechnologies.com"
 #REPORT_ENDPOINT = "iParkMobi-Demo-01/updateStatus.php"
