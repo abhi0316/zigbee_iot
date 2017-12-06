@@ -3,13 +3,10 @@ import json
 import urllib
 import datetime
 import threading
-#REPORT_HTTPS = False
-#REPORT_DOMAIN = "whiteeovaltechnologies.com"
-#REPORT_ENDPOINT = "iParkMobi-Demo-01/updateStatus.php"
-#REPORT_PARAM_NAME = "status"
-url ="http://staging.iparkmobi.com/api/message/parkingStatus?type=queue"
-username="admin"
-password="admin"
+
+url ="endpoint here"
+username="username"
+password="password"
 
 
 
